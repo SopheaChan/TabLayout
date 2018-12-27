@@ -3,4 +3,7 @@
     <string name="left">Left</string>
     <string name="center">Center</string>
     <string name="right">Right</string>
+    <string name="fragment_item_one">Fragment Item One</string>
+    <string name="fragment_item_two">Fragment Item Two</string>
+    <string name="fragment_item_three">Fragment Item Three</string>
 </resources>

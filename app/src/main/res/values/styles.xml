@@ -7,8 +7,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
-    <style name="tab_layout_style" parent="Theme.AppCompat.DayNight.DarkActionBar">
-        <item name="android:background">@color/design_default_color_primary</item>
+    <style name="Popup">
+        <item name="android:popupTheme">@color/colorPrimary</item>
     </style>
 </resources>
